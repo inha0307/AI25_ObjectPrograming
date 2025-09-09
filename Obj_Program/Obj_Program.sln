@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Obj_Program", "Obj_Program\Obj_Program.vcxproj", "{E9F88BAC-90CD-4B18-9BC2-292C4E611ADB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2week", "2week\2week.vcxproj", "{518C3E31-AAFD-4519-94CF-FD0BB026E06D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2week_1", "2week\2week.vcxproj", "{518C3E31-AAFD-4519-94CF-FD0BB026E06D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2week_2", "2week_2\2week_2.vcxproj", "{2AC319C7-DA79-4E8C-940A-787CC0BF6317}"
 EndProject
