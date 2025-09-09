@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5590C4-E146-43FF-A531-900B5E087B5C}|2week_3\\2week_3.vcxproj|C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\2week_3\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5590C4-E146-43FF-A531-900B5E087B5C}|2week_3\\2week_3.vcxproj|solutionrelative:2week_3\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F88BAC-90CD-4B18-9BC2-292C4E611ADB}|Obj_Program\\Obj_Program.vcxproj|C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\Obj_Program\\example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9F88BAC-90CD-4B18-9BC2-292C4E611ADB}|Obj_Program\\Obj_Program.vcxproj|solutionrelative:Obj_Program\\example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "temp.cpp",
+              "DocumentMoniker": "C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\2week_3\\temp.cpp",
+              "RelativeDocumentMoniker": "2week_3\\temp.cpp",
+              "ToolTip": "C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\2week_3\\temp.cpp",
+              "RelativeToolTip": "2week_3\\temp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T08:13:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "example.cpp",
+              "DocumentMoniker": "C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\Obj_Program\\example.cpp",
+              "RelativeDocumentMoniker": "Obj_Program\\example.cpp",
+              "ToolTip": "C:\\\uAC1D\uCCB4\uC9C0\uD5A5\uD504\uB85C\uADF8\uB798\uBC0D\\AI25_ObjectPrograming\\Obj_Program\\Obj_Program\\example.cpp",
+              "RelativeToolTip": "Obj_Program\\example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T08:12:59.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
