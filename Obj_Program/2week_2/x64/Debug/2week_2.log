@@ -1,2 +1,2 @@
 ﻿  In_Put.cpp
-  2week_2.vcxproj -> D:\20241371\AI25_ObjectPrograming\Obj_Program\x64\Debug\2week_2.exe
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\2week\In_Put.cpp': No such file or directory
