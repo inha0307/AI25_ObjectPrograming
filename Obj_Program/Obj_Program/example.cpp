@@ -5,9 +5,12 @@ using namespace std;
 
 int main()
 {
-	int x, y;
-	cout << "이름을 입력하시오: ";
-	cin >> x >> y;
-	cout << x << y << endl;
+	int a = 10;
+	cout << "a : " << a << endl;
+	int* b = &a;
+	cout << "&a : " << &a << endl;
+	cout << "*b : " << *b << endl;
+	*b = 7;
+	cout << "a : " << a << endl;
 	return 0;
 }
